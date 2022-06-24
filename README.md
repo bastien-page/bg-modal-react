@@ -4,17 +4,17 @@
 
 You can install this component with npm or yarn :
 
-    npm i modal-react
+    npm i bg-modal-react
 
 or
 
-    yarn add modal-react
+    yarn add bg-modal-react
 
 ## Use in React project
 
 Import the Modal component
 
-    import Modal from "modal-react";
+    import Modal from "bg-modal-react";
 
 ## Example
 
