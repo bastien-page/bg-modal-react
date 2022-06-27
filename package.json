@@ -1,5 +1,5 @@
 {
-  "name": "modal-react",
+  "name": "bg-modal-react",
   "version": "0.1.0",
   "description": "Modal component for React",
   "main": "./lib/Modal.js",
